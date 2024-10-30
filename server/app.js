@@ -5,6 +5,7 @@ const app = express();
 const bodyParser = require('body-parser')
 const path = require('path');
 const port = process.env.PORT || 3000;
+require('dotenv').config();
 
 app.use(bodyParser.urlencoded({ extends: false }))
 
