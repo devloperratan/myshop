@@ -1,2 +1,2 @@
-# myshop
+# shoping website
  mern technology
